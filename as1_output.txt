@@ -1,0 +1,11 @@
+Enter first number: 54
+Enter second number: 45
+Enter third number: 888
+The average of three numbers is:  329.0
+Enter your Gross income: 602555.265
+Enter number of dependents: 4
+income Tax is:  116111.05300000001
+[21104026, 'Rabia', 'F', 'Electrical Engineering', 10]
+[45, 50, 67, 78, 89]
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+['Red', 'Green', 'White', 'Purple', 'Yellow']
