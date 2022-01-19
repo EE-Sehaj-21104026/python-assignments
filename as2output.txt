@@ -1,0 +1,37 @@
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive 
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+
+
+HEY, Sehaj Here!
+ My SID is 21104036
+ I am from Electrical Enginerring department and my CGPA is 9.5
+
+
+8
+58
+50
+224
+14
+40
+0
+
+
+Enter first number : 54
+Enter second number : 6
+Enter third number : 1
+The greatest number is :  54
+
+
+Write the rules regarding naming of variables in python :
+ A variable name must start with a letter or the underscore character.A variable name cannot start with a number.
+Yes
+
+
+Enter length of first side of triangle :12
+Enter length of second side of triangle :5
+Enter length of third side of triangle :7
+Yes
