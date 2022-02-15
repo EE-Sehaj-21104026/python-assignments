@@ -44,21 +44,19 @@ if 4<=grade<= 10:
 else:
   print("Error: input grade is out of range")
 
+
 # ques 5
-alphabets = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']
-
-for row in range(0,6):
-    column=0
-    counter=0
-    while column<11:
-        if column<row or column>11-row-1:
-            print(" ", end="")
-
-        else:
-            print(alphabets[counter], end="")
-            counter=counter+1
-        column=column+1
-    print("")
+alpha = input("Enter an alphabet : ")
+n = ord(alpha)
+rows = int(input("number of rows : "))
+for i in range(rows,0,-1):
+    for j in range(rows-i):
+        print(' ', end='') # printing space and staying in same line
+    for j in range(65,n+1):
+        print(chr(j),end='') 
+    print("") # printing new line
+    n-=2
+    i -=1
 
 # ques 6
 from traceback import print_tb
