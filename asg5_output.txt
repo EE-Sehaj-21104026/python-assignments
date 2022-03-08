@@ -1,0 +1,30 @@
+Enter number of students: 4
+Marks of student: 23
+Marks of student: 12
+Marks of student: 33
+Marks of student: 34
+Entered marks list:  [23, 12, 33, 34]
+marks list sorted by quick sort
+[12, 23, 33, 34]
+marks list sorted by merge sort
+[12, 23, 33, 34]
+
+
+Number of entries: 11
+Entry number 0: 4
+Entry number 1: 5
+Entry number 2: 2
+Entry number 3: 4
+Entry number 4: 5
+Entry number 5: 6
+Entry number 6: 2
+Entry number 7: 3
+Entry number 8: 4
+Entry number 9: 5
+Entry number 10: 7
+Input array:  [4, 5, 2, 4, 5, 6, 2, 3, 4, 5, 7]
+Sorted array
+[2, 2, 3, 4, 4, 4, 5, 5, 5, 6, 7]
+Enter number to be searched : 4
+Element is present in the input array
+Number of occurances of element 4 is : 3
